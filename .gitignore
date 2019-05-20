@@ -1,3 +1,6 @@
 
 datasets/taxi_fare/test.csv
 datasets/taxi_fare/train.csv
+*.ppm
+*.csv
+datasets/belgian/Training/Readme.txt
