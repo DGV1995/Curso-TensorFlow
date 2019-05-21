@@ -5,3 +5,4 @@ datasets/taxi_fare/train.csv
 *.csv
 datasets/belgian/Training/Readme.txt
 *.jpg
+*.jpeg
